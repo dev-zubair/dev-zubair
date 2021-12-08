@@ -8,7 +8,7 @@
     <img alt="" src="https://img.shields.io/badge/fiverr-1DBF73?style=plastic&logo=fiverr&logoColor=white" />
   </a>
   
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+[Go to this page](http://somelink.com/?target=_blank)
 
 
 <h1 align="center">Hi 👋, I'm MD. Zubair Ahmed</h1>
