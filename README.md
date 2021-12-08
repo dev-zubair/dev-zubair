@@ -1,15 +1,3 @@
-- 🏢 I'm currently working as a Freelancer <a href="https://www.linkedin.com/in/devzubair/" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/UpWork-6FDA44?style=plastic&logo=Upwork&logoColor=white" /> 
-  </a>
-  <a href="https://www.linkedin.com/in/devzubair/" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Freelancer-29B2FE?style=plastic&logo=Freelancer&logoColor=white" /> 
-  </a>
-  <a href="https://www.linkedin.com/in/devzubair/" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/fiverr-1DBF73?style=plastic&logo=fiverr&logoColor=white" />
-  </a>
-  
-  
-
 <h1 align="center">Hi 👋, I'm MD. Zubair Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
