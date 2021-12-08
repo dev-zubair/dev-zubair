@@ -9,6 +9,8 @@
   </a>
   
 [Go to this page](http://somelink.com/?target=_blank)
+[Yes Go to this page](http://somelink.com/){:target="_blank"}
+[Not Go to this page](http://somelink.com/){target="_blank"}
 
 
 <h1 align="center">Hi 👋, I'm MD. Zubair Ahmed</h1>
