@@ -8,8 +8,7 @@
     <img alt="" src="https://img.shields.io/badge/fiverr-1DBF73?style=plastic&logo=fiverr&logoColor=white" />
   </a>
   
-  [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-  [Upwork](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 
 <h1 align="center">Hi 👋, I'm MD. Zubair Ahmed</h1>
