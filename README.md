@@ -21,6 +21,10 @@ I am an Experienced **Front-End React and WordPress Developer** with a demonstra
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
+**Professionally** – I’m Front End Develoer, A WordPress Developer, A Freelancer- in Upwork.
+
+**Personally** – I’m a husband, girl dad (2x), family man. And I'm a cricketer and a singer in a past life.
+
 
 - 🏢 Working as a **Freelancer** <a href="https://www.upwork.com/freelancers/~01e484fb837b72ab1b" target="_blank">
     <img alt="" src="https://img.shields.io/badge/UpWork-6FDA44?style=plastic&logo=Upwork&logoColor=white" /> 
