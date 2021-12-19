@@ -48,12 +48,12 @@ Programmer specialized in **web development** using multiple **tools, frameworks
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=material-UI)
   
-- 💬 Ask me about: JavaScript, React, CSS.
+<!-- - 💬 Ask me about: JavaScript, React, CSS.
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/dev_zubair?style=social)](https://twitter.com/dev_zubair)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-devzubair-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devzubair/)](https://www.linkedin.com/in/devzubair/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/dev-zubair?label=follow&style=social)](https://github.com/dev-zubair)
-
+ -->
 ----
 
 <!-- ## 📫 How to reach me: 
