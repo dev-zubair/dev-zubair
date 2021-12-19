@@ -2,7 +2,7 @@
 
 [![Mail](https://img.shields.io/badge/Gmail-zubairhmd84@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:zubairhmd84@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-8801619141476-0?logo=whatsapp&logoColor=blue&labelColor=black)](tel:+880-1619141476)
-[![WhatsApp](https://img.shields.io/badge/USAPhone-+1(818)9270006-6?logo=whatsapp&logoColor=blue&labelColor=black)](tel:+18189270006)
+[![WhatsApp](https://img.shields.io/badge/USA No-+1(818)9270006-6?logo=whatsapp&logoColor=blue&labelColor=black)](tel:+18189270006)
 [![Skype](https://img.shields.io/badge/Skype-zubairhmd-blue?logo=skype&logoColor=blue&labelColor=black)](zubairhmd)
 [![Zoom](https://img.shields.io/badge/Zoom-zubairhmd84@gmail.com-maroon?logo=zoom&logoColor=black&labelColor=blue)](zubairhmd84@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-devzubair-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/devzubair/)
