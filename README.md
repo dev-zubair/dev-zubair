@@ -12,8 +12,6 @@
 <h3 align='center'><strong><a href="https://devzubair.netlify.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Front-End Developer | React-JS Developer | WordPress Developer | Learning MERN</p>
 
-<p align = "center"><img src="https://github.com/dev-zubair/hoteltest/blob/main/code.gif"/></p>
-
 ### <h2 align='center'><samp><strong><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </strong></samp></h2>
 <!-- # Hi there. I am Md. Zubair Ahmed 👋 . Welcome to my Profile!!!   -->
 <!-- # Hi there. I am Md. Zubair Ahmed 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName) -->
