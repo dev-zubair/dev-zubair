@@ -25,10 +25,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 **Personally** – I’m a husband, girl dad (2x), family man. And I'm a cricketer and a singer in a past life.
 
 
-- 🏢 Working as a **Freelancer** <a href="https://www.upwork.com/freelancers/~01e484fb837b72ab1b" target="_blank">
+<!-- - 🏢 Working as a **Freelancer** <a href="https://www.upwork.com/freelancers/~01e484fb837b72ab1b" target="_blank">
     <img alt="" src="https://img.shields.io/badge/UpWork-6FDA44?style=plastic&logo=Upwork&logoColor=white" /> 
   </a>  <a href="https://www.freelancer.com/u/zubair84" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Freelancer-29B2FE?style=plastic&logo=Freelancer&logoColor=white" /> 
+    <img alt="" src="https://img.shields.io/badge/Freelancer-29B2FE?style=plastic&logo=Freelancer&logoColor=white" />  -->
 <!--   </a>  <a href="https://www.linkedin.com/in/devzubair/" target="_blank">
     <img alt="" src="https://img.shields.io/badge/fiverr-1DBF73?style=plastic&logo=fiverr&logoColor=white" />
   </a> -->
