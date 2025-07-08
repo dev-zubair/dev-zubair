@@ -14,7 +14,6 @@
 ### <h2 align='center'><samp><strong><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </strong></samp></h2>
 <!-- # Hi there. I am Md. Zubair Ahmed 👋 . Welcome to my Profile!!!   -->
 <!-- # Hi there. I am Md. Zubair Ahmed 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName) -->
-<img align='right' src='https://raw.githubusercontent.com/dev-zubair/devzubair--33-api-examples/main/developer.gif' width='350"'> </p>
 
 I am an Experienced **Front-End React and WordPress Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Bootstrap, JavaScript, Express, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience and WordPress.**
 
